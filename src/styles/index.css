@@ -1,4 +1,16 @@
+.container{
+    background-color: rgba(104, 173, 173, 0.726);
 
+}
+
+.Playlist{
+    background-color: rgba(19, 20, 20, 0.726);
+    color: whitesmoke ;
+
+    border-radius: 50px ;
+    border-color:gray ;
+
+}
 /* 
 
     You can write your own styles here...
