@@ -1,19 +1,5 @@
 
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: "Fira Sans", sans-serif;
-}
-
-body {
-    background-image: url("../img/rigo-baby.jpg");
-    
-   
-}
-
-
-.cont{
+.contain{
     margin: auto;
     width:70%;
     padding: 0;
@@ -21,18 +7,20 @@ body {
     background-color: rgba(19, 20, 20, 0.852);
 }
 h1{
-    color: whitesmoke ;
+    color: white  ;
+    background-color: rgba(44, 40, 46, 0.8);
+
+
 }
 .Playlist{
-     box-sizing: border-box ;
-    padding: auto;
     width: 100%;
     padding: none;
     background-color: rgba(19, 20, 20, 0.726);
     color: whitesmoke ;
-    border-radius: 100px ;
     border-color:gray ;
+    cursor: pointer;
 }
+
 button{
 
     font-size: xx-large;
@@ -40,9 +28,8 @@ button{
     position: sticky;
     bottom: 0;
     padding: 5px;
-    margin: 3px;
-    border: 2px solid black;
-    border-radius: 5px;
+    margin: 5px;
+
   
   }
   
